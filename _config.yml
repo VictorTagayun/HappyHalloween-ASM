@@ -1,7 +1,7 @@
 makecode:
   target: arcade
   platform: arcade
-  home_url: https://arcade.makecode.com/
+  home_url: https://victortagayun.github.io/
 theme: jekyll-theme-slate
 include:
   - assets
